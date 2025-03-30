@@ -59,6 +59,9 @@
       </td>
     </tr>
   </table>
+
+  <br>
+  <br>
   
   <h2>🔧 Tools I Use</h2>
   
@@ -102,8 +105,8 @@
   </table>
 </div>
 
-<br><br>
-<br><br>
+<br>
+<br>
 
 <div align="center">
   <h1>📊 GitHub Stats 📊</h1> 
@@ -122,16 +125,27 @@
 </div>
 </div>
 
+<br>
+<br>
+
 <div align="center">
-<h1>🔢 Extras 🔢</h1>
+  <h1>✨ Fun Stuff & Stats ✨</h1>
   
- <div style="display: flex; justify-content: center; gap: 100px; margin: 20px;">
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="200" height="150"/>
-    <img src="https://komarev.com/ghpvc/?username=z1mplex&style=for-the-badge&color=blueviolet" alt="Profile Views" width="150" height="50"/>
-</div>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+        <br><strong>Random Dev Joke</strong>
+      </td>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=z1mplex&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
+        <br><strong>Profile Visitors</strong>
+      </td>
+    </tr>
+  </table>
   
   <br><br>
-  
+  <h1>🐍 Snake 🐍</h1>
   <img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark Mode"/>
 </div>
 </div>
