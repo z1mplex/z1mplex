@@ -19,7 +19,7 @@
 <div align="center">
   <h1>⚙️ Technologies ⚙️</h1>
   <div align="center" style="margin-top: 20px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
+     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="70" height="70"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="70" height="70"/>
@@ -41,6 +41,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="70"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="70" height="70"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="70" height="70"/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70"/>
     <img src="https://cdn.simpleicons.org/discord/5865F2" title="Discord" alt="Discord" width="70" height="70"/>
   </div>
 </div>
