@@ -5,9 +5,9 @@
 <div align="center">
   <h1>🐍 Python Developer | Problem Solver 🎯</h1>
   <p>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://www.linkedin.com/in/олексій-понюк-213051319/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:vip.pon123456@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://t.me/poniushka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   </p>
 </div>
 
@@ -15,7 +15,7 @@
   <img src="https://github.com/z1mplex/.github-workflows/blob/main/metrics.plugin.isocalendar.svg" alt="Metrics" width="700"/>
 
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E88E5&center=true&vCenter=true&width=500&lines=Python+Developer;FastAPI+Backend+Engineer;SQL+and+Database+Expert;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E88E5&center=true&vCenter=true&width=500&lines=Python+Developer;FastAPI+Backend+Engineer;SQL+and+Database;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
