@@ -90,16 +90,16 @@
         <br>Jira
       </td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="65" height="65"/>
-        <br>Figma
-      </td>
-      <td align="center">
         <img src="https://cdn.simpleicons.org/discord/5865F2" title="Discord" alt="Discord" width="65" height="65"/>
         <br>Discord
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Slack_Technologies_Logo.svg" title="Slack" alt="Slack" width="65" height="65"/>
-        <br>Slack
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="65" height="65"/>
+        <br>Figma
+      </td>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="65" height="65"/>
+        <br>Canva
       </td>
     </tr>
   </table>
