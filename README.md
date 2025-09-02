@@ -65,44 +65,44 @@
   
   <h2>🔧 Tools I Use</h2>
   
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="65" height="65"/>
-        <br>PyCharm
-      </td>
-      <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="65" height="65"/>
-        <br>VS Code
-      </td>
-      <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="65" height="65"/>
-        <br>Docker
-      </td>
-      <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="65" height="65"/>
-        <br>Linux
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="65" height="65"/>
-        <br>Jira
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/discord/5865F2" title="Discord" alt="Discord" width="65" height="65"/>
-        <br>Discord
-      </td>
-      <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="65" height="65"/>
-        <br>Figma
-      </td>
-      <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="65" height="65"/>
-        <br>Canva
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png/light/cursor.png" title="Cursor" alt="Cursor" width="65" height="65"/>
+      <br>Cursor IDE
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="65" height="65"/>
+      <br>Postman
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="65" height="65"/>
+      <br>Docker
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="65" height="65"/>
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="65" height="65"/>
+      <br>Jira
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/discord/5865F2" title="Discord" alt="Discord" width="65" height="65"/>
+      <br>Discord
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="65" height="65"/>
+      <br>Figma
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="65" height="65"/>
+      <br>Canva
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
